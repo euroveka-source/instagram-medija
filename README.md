@@ -8,7 +8,7 @@ suteikia.
 
 Kiekvienas failas pasiekiamas adresu:
 
-    https://<vardas>.github.io/instagram-medija/<failas>
+    https://euroveka-source.github.io/instagram-medija/<failas>
 
 Failai laikomi tik iki paskelbimo ir po jo – kaip archyvas. Nieko privataus
 čia nededama.
